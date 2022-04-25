@@ -1,0 +1,22 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Practica 2 Semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanMorales26/spiderverse.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanMorales26/spiderverse/issues"
+  },
+  "homepage": "https://github.com/JuanMorales26/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.0"
+  }
+}
